@@ -1,2 +1,9 @@
-this is my first File
-in linuxThis is git sessiontwo lines added
+<<<<<<< HEAD
+this is my first file
+in linuxThis is git session 
+two lines Added
+=======
+this is my first file
+in linuxThis is git session
+two lines Added
+>>>>>>> dev
