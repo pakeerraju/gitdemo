@@ -1,4 +1,0 @@
-this is my first file
-in linuxThis is git session 
-two lines Added
-
